@@ -1,0 +1,20 @@
+{
+  "id": "SI-20230001-11",
+  "snap_token": "",
+  "no_daftar": "20230001",
+  "nama": "admin",
+  "email": "admin@gmail.com",
+  "transaction_status": "Belum dibayar",
+  "billing_detail": [
+    {
+      "id_biaya": 2,
+      "nama_biaya": "PENDAFTARAN",
+      "jumlah": 200000
+    },
+    {
+      "id_biaya": 3,
+      "nama_biaya": "tes kesehatan",
+      "jumlah": 150000
+    }
+  ]
+}
